@@ -1,0 +1,14 @@
+git config --global user.email "shreeshasnekkar81@gmail.com"
+
+git remote add origin https://github.com/shreeshasn/devopslab.git
+
+git add .
+
+git commit -m "first commit"
+
+git push --set-upstream origin master
+
+git push
+
+git pull
+
