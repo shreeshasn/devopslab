@@ -9,3 +9,7 @@ git add .   ->>   git commit -m "first commit"   ->>  git push
 
 git pull
 
+branches:
+
+	git branch <branch_name>
+	git checkout -b <branch_name>
